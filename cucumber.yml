@@ -1,0 +1,2 @@
+default: --no-source --color --format pretty -p html --publish-quiet
+html: --format html --out=reports/relatoriotesteBOPM.html
